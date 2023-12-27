@@ -1,7 +1,9 @@
 # LOAN PREDICTION SYSTEM
 Machine Learning based system to predict loan approval/denial based on applicant data, reducing manual review and improving efficiency.
 
-### OUTPUTS
+## OUTPUTS
+
+### Login Page
 
 
 ![Screenshot (402)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2ab0d41e-2637-45c3-9098-8e579e887265)

@@ -12,7 +12,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [API Reference](#api-reference)
+5. 📱 [Screenshots](#screenshot)
 6. 🔗 [Author](#author)
 
 <hr>
@@ -25,8 +25,34 @@ This project seeks to streamline the lending process by automating the decision-
 <hr>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
+- **Programming Language:** Python.
+- **Machine Learing Algorithms:** Support Vector Machine (SVM), Random Forest and Decision Tree.
+- **Machine Learning Libraries:** TensorFlow, Keras and Scikit-learn.
+- **Data Processing Libraries:** Pandas and NumPy.
+- **GUI Development Toolkit:** Tkinter
+- **Visualization Library:** Matplotlib
 
-## OUTPUTS
+<hr>
+
+## <a name="features">🔋 Features</a>
+- **User-friendly interface:** A visually appealing and intuitive interface built using Python's tkinter library for seamless user interaction.
+- **Data collection:** Comprehensive data capturing of essential loan application details.
+- **Machine learning models:** Implementation of robust machine learning algorithms like Support Vector Machine, Random Forest, and Decision Tree to predict loan eligibility.
+- **Model evaluation:** Rigorous evaluation of model performance using appropriate metrics to ensure accuracy and reliability.
+- **Prediction generation:** Real-time prediction of loan approval based on the provided data.
+
+<hr>
+
+## <a name="quick-start">🤸 Quick Start</a>
+1. Clone the repository.
+2. Create a envoirnment and select the nwewly created envoirnment.
+3. Install libraies like tensorflow, keras, matplotlib, pillow, numpy, sklearn, tkvideo, gtts and pandas.
+4. Select the created envoirnnment.
+5. Launch spyder (IDE).
+6. Open all files in code folder in spyder.
+7. To launch app, run GUI_main.py file.
+
+## <a name="screenshot">📱 Screenshots </a>
 
 ### Landing Page
 
@@ -60,5 +86,10 @@ This project seeks to streamline the lending process by automating the decision-
 ![Screenshot (406)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/42865090-3860-4d08-b4e2-5b81386502c8)
 
 ![Screenshot (405)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/e78a5179-4e81-45ae-90bf-e48891406294)
+
+<hr>
+
+### <a name="author">🔗 Author </a>
+[Atharva Ingale](https://github.com/AtharvaIngale)
 
 

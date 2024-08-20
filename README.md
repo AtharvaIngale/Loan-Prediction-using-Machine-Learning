@@ -56,41 +56,41 @@ This project seeks to streamline the lending process by automating the decision-
 
 ## <a name="screenshot">📱 Screenshots </a>
 
-##### Landing Page
-![Landing Page](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2ab0d41e-2637-45c3-9098-8e579e887265)
+##### Home Page
+![Home Page](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2ab0d41e-2637-45c3-9098-8e579e887265)
 
 ##### Login and Register Page
-![Screenshot (403)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/b467d56b-8cda-43cb-8691-33f942f564ec)
+![Login and Register Page](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/b467d56b-8cda-43cb-8691-33f942f564ec)
 
 ##### Registration Form
-![Screenshot (404)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/1b1d6234-be25-4b5d-871a-5fbcf961b661)
+![Registration Form](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/1b1d6234-be25-4b5d-871a-5fbcf961b661)
 
 ##### Login Form
-![Screenshot (406)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/42865090-3860-4d08-b4e2-5b81386502c8)
+![Login Form](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/42865090-3860-4d08-b4e2-5b81386502c8)
 
 ##### Login sucessfull message
-![Screenshot (405)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/e78a5179-4e81-45ae-90bf-e48891406294)
+![Login sucessfull message](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/e78a5179-4e81-45ae-90bf-e48891406294)
 
 ##### Landing page
-![Screenshot (407)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/837306d3-9cc8-4d0f-a579-10e5d7bb9278)
+![Landing page](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/837306d3-9cc8-4d0f-a579-10e5d7bb9278)
 
 ##### Applicant Loan Details Form
-![Screenshot (410)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/b1380d33-8f3d-4b78-a87a-17df741b2575)
+![Applicant Loan Details Form](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/b1380d33-8f3d-4b78-a87a-17df741b2575)
 
 ##### Applicant eligible for loan
-![Screenshot (411)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/6b1d083a-e07e-4fcd-901c-0d2538d78056)
+![Applicant eligible for loan](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/6b1d083a-e07e-4fcd-901c-0d2538d78056)
 
 ##### Applicant not eligible for loan
-![Screenshot (412)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/92573a28-9ace-43eb-bcb6-4a7a4a33f866)
+![Applicant not eligible for loan](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/92573a28-9ace-43eb-bcb6-4a7a4a33f866)
 
 ##### Performance Matrices of Support Vector Machine Algorithm
-![Screenshot (421)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/026d56d6-f49f-49a5-9763-12f56b478562)
+![Performance Matrices of SVM](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/026d56d6-f49f-49a5-9763-12f56b478562)
 
 ##### Performance Matrices of Random Forest Algorithm
-![Screenshot (409)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2a8983b3-f90b-45f7-a5f5-65cd35220c2f)
+![Performance Matrices of RF](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2a8983b3-f90b-45f7-a5f5-65cd35220c2f)
 
 ##### Performance Matrices of Decision Tree algorithm
-![Screenshot (408)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/aad7b391-438b-499b-9038-75c104df390a)
+![Performance Matrices of DT](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/aad7b391-438b-499b-9038-75c104df390a)
 
 <hr>
 

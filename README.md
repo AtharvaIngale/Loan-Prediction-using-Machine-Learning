@@ -4,6 +4,21 @@
 
 <hr>
 
+<br />
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [API Reference](#api-reference)
+6. 🔗 [Author](#author)
+
+<br />
+
+## <a name="introduction">🤖 Introduction </a>
+
 ## OUTPUTS
 
 ### Landing Page

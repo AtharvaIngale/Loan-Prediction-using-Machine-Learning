@@ -1,4 +1,4 @@
-# LOAN PREDICTION SYSTEM
+<h1 align='center'> LOAN PREDICTION USING MACHINE LEARNING </h1>
 Machine Learning based system to predict loan approval/denial based on applicant data, reducing manual review and improving efficiency.
 
 ## OUTPUTS

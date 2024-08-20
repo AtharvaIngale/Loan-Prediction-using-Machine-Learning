@@ -2,14 +2,16 @@
 
 <h4 align='center'> Machine Learning based system to predict loan approval/denial based on applicant data, reducing manual review and improving efficiency. </h4>
 
+<hr>
+
 ## OUTPUTS
 
 ### Landing Page
 
 
-![Screenshot (402)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2ab0d41e-2637-45c3-9098-8e579e887265)
+![Landing Page](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/2ab0d41e-2637-45c3-9098-8e579e887265)
 
-![Screenshot (398)](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/ffdeb75a-f70b-458e-a705-c1d7c7e9c458)
+![Landing Page](https://github.com/AtharvaIngale/Loan-Prediction-System/assets/94461630/ffdeb75a-f70b-458e-a705-c1d7c7e9c458)
 
 ### Login Page
 

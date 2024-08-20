@@ -46,7 +46,7 @@ This project seeks to streamline the lending process by automating the decision-
 ## <a name="quick-start">🤸 Quick Start</a>
 1. Clone the repository.
 2. Create a envoirnment and select the nwewly created envoirnment.
-3. Install libraies like tensorflow, keras, matplotlib, pillow, numpy, sklearn, tkvideo, gtts and pandas.
+3. Install libraies like tensorflow, keras, matplotlib, numpy, Scikit-learn and pandas.
 4. Select the created envoirnnment.
 5. Launch spyder (IDE).
 6. Open all files in code folder in spyder.

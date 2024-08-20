@@ -15,9 +15,16 @@
 5. 🕸️ [API Reference](#api-reference)
 6. 🔗 [Author](#author)
 
-<br />
+<hr>
 
 ## <a name="introduction">🤖 Introduction </a>
+The project aims to revolutionize the loan approval process through machine learning. By leveraging a user-friendly interface, the app collects essential applicant data including income, credit history, and demographics. This information is then processed using advanced algorithms to predict loan eligibility, providing instant and accurate decisions.
+<br />
+This project seeks to streamline the lending process by automating the decision-making phase, reducing processing times, and improving overall efficiency. The model will be trained on a comprehensive dataset to ensure reliable and accurate predictions.
+
+<hr>
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 ## OUTPUTS
 

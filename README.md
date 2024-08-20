@@ -52,6 +52,8 @@ This project seeks to streamline the lending process by automating the decision-
 6. Open all files in code folder in spyder.
 7. To launch app, run GUI_main.py file.
 
+<hr>
+
 ## <a name="screenshot">📱 Screenshots </a>
 
 ### Landing Page
